@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.db
+*.sqlite
+*.h5
+*.pkl
+
+# Dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Conda and Poetry
+conda-meta/
+poetry.lock
+
+# VS Code settings
+.vscode/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
